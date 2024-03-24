@@ -3,6 +3,11 @@ function add(num1, num2) {
     return num1 + num2;
 }
 
+// Function to calculate the power of a number
+function power(base, exponent) {
+    return Math.pow(base, exponent);
+}
+
 // Function to subtract two numbers
 function subtract(num1, num2) {
     return num1 - num2;
